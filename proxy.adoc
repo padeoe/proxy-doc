@@ -203,6 +203,7 @@ image::images/spotify-socks.png[]
 === 在 Chrome 中使用 Socks 代理
 ==== 安装 Chrome 和 SwitchyOmega 插件
 参考 https 代理配置文档中的 <<安装 Chrome 和 SwitchyOmega 插件>> 。
+
 ==== 在插件中配置代理
 打开 SwichyOmega 的配置界面，`新建情景模式`-`代理服务器`。
 
