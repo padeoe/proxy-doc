@@ -212,6 +212,7 @@ image::images/chrome-socks-conf.png[]
 （YSocks 默认为 **1080**）。
 
 填写完毕后，点击应用更改。
+
 ==== 使用 Socks 代理
 在浏览器右上角选中刚才创建的代理，就可以开始愉快的浏览网页了。
 
