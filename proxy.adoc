@@ -8,7 +8,6 @@ v1.0
 :source-highlighter: pygments
 :pygments-style: manni
 :listing-caption: Listing
-:var_gradle_version: gradle-2.13-bin.zip
 :sectanchors:
 :sectnums:
 //:!webfonts:
