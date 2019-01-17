@@ -4,6 +4,6 @@ docker run -d \
     --name=asciidoc-dev \
     -p 7781:22 \
     --restart=always \
-    -v "$PWD/documents":/documents \
+    -v "$PWD":/documents \
     asciidoc-dev
 ```
